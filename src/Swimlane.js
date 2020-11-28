@@ -1,6 +1,7 @@
 import React from 'react';
 import Card from './Card';
 import './Swimlane.css';
+import Dragula from 'dragula';
 
 export default class Swimlane extends React.Component {
   render() {

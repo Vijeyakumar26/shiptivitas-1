@@ -1,4 +1,5 @@
 import React from 'react';
+import Dragula from 'dragula';
 
 export default class Navigation extends React.Component {
   render() {
